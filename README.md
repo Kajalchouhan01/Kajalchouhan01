@@ -6,14 +6,14 @@
 "Passionate MERN Stack Developer | Proficient in HTML, CSS, JavaScript, React, Bootstrap, Tailwind, Node.js, Express, and MongoDB | Transforming Ideas into Dynamic Web Solutions"
 
 
-🛠 Web Development Tools
+🛠 Web Development Tools -
 HTML || CS || JS || REACT 
 
 
-🛠 Programming languages
+🛠 Programming languages -
 C || C++
 
-🛠 Data Base
+🛠 Data Base -    
 MONGO DB 
 
 
