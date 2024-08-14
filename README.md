@@ -1,22 +1,15 @@
-👋 Hi
+👩‍💻 Kajal Chouhan
+🚀 Passionate MERN Stack Developer
 
-👩‍💻 Kajal Chouhan 👩‍💻
+🌟 Transforming Ideas into Dynamic Web Solutions
 
+Skills & Technologies:
 
-"Passionate MERN Stack Developer | Proficient in HTML, CSS, JavaScript, React, Bootstrap, Tailwind, Node.js, Express, and MongoDB | Transforming Ideas into Dynamic Web Solutions"
+Frontend: HTML, CSS, JavaScript, React, Bootstrap, Tailwind
+Backend: Node.js, Express.js
+Database: MongoDB
+Programming Languages: C, C++
+Tools: Git, GitHub, VS Code, MS Office (PowerPoint, Word, Excel)
+💡 I enjoy crafting seamless user experiences and building responsive, efficient web applications. Always eager to learn and explore new technologies.
 
-
-🛠 Web Development Tools -
-HTML || CS || JS || REACT 
-
-
-🛠 Programming languages -
-C || C++
-
-🛠 Data Base -    
-MONGO DB 
-
-
-🛠 Ms Tools
-POWER POINT || MS WORD || EXCEL
-
+🌱 Currently Learning: Advanced React & Serverless Architectures
